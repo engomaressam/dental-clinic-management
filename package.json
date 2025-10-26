@@ -1,0 +1,28 @@
+{
+  "name": "dental-clinic-management",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["dental", "clinic", "management", "nodejs", "express", "ejs", "mongodb"],
+  "author": "Dental Clinic Management Team",
+  "license": "ISC",
+  "description": "A comprehensive web-based dental clinic management system built with Node.js, Express, and EJS. Supports both MongoDB and local JSON storage for flexible deployment.",
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.18.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.17.1",
+    "morgan": "^1.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
