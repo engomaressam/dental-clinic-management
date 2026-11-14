@@ -4,32 +4,32 @@ A comprehensive web-based dental clinic management system built with Node.js, Ex
 
 ## Features
 
-### 📋 Patient Management
+### Patient Management
 - Add, edit, and delete patient records
 - Search patients by name, phone, or email
 - View patient appointment history
 - Manage patient appointments directly from patient profiles
 
-### 👨‍⚕️ Doctor Management
+### Doctor Management
 - Manage doctor profiles with specializations
 - View doctor-specific dashboards with statistics
 - Track doctor schedules and appointments
 - Delete doctors with automatic appointment cleanup
 
-### 📅 Appointment Management
+### Appointment Management
 - Schedule, reschedule, and cancel appointments
 - View appointments by date and doctor
 - Track appointment status (pending, confirmed, completed, cancelled)
 - Doctor schedule management with time slot availability
 
-### 📦 Inventory Management
+### Inventory Management
 - Track medical supplies and equipment
 - Monitor stock levels with low-stock alerts
 - Add/subtract inventory quantities
 - Usage tracking by doctor and item
 - Comprehensive usage history reports
 
-### 📊 Dashboard & Analytics
+### Dashboard & Analytics
 - Real-time dashboard with key metrics
 - Today's appointments overview
 - Patient and doctor statistics
